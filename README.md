@@ -11,7 +11,7 @@ Learning TypeScript from basic to advanced, one topic per day.
 ## Commands
 
 ```bash
-npm run dev day-01/functions.ts   # run a file
+npm run dev day-01/03-functions.ts # run a file
 npm run typecheck                  # check all files
 ```
 
