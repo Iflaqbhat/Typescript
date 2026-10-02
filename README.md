@@ -1,5 +1,9 @@
 # TypeScript Learning
 
+[![GitHub stars](https://img.shields.io/github/stars/Iflaqbhat/Typescript?style=flat-square)](https://github.com/Iflaqbhat/Typescript/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Iflaqbhat/Typescript?style=flat-square)](https://github.com/Iflaqbhat/Typescript/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Iflaqbhat/Typescript?style=flat-square)](https://github.com/Iflaqbhat/Typescript/issues)
+
 Learning TypeScript from basic to advanced, one topic per day.
 
 ## How this repo works
