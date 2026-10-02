@@ -1,5 +1,10 @@
 # TypeScript Learning
 
+[![Last Commit](https://img.shields.io/github/last-commit/Iflaqbhat/Typescript?style=flat-square)](https://github.com/Iflaqbhat/Typescript/commits)
+[![Repo Size](https://img.shields.io/github/repo-size/Iflaqbhat/Typescript?style=flat-square)](https://github.com/Iflaqbhat/Typescript)
+[![Top Language](https://img.shields.io/github/languages/top/Iflaqbhat/Typescript?style=flat-square)](https://github.com/Iflaqbhat/Typescript)
+[![Stars](https://img.shields.io/github/stars/Iflaqbhat/Typescript?style=flat-square)](https://github.com/Iflaqbhat/Typescript/stargazers)
+
 Learning TypeScript from basic to advanced, one topic per day.
 
 ## How this repo works
