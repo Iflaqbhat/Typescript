@@ -1,0 +1,19 @@
+[build]
+  base = "barakah-dryfruits"
+  command = "python3 build.py"
+  publish = "dist"
+
+[build.environment]
+  PYTHON_VERSION = "3.13"
+  NODE_VERSION = "22"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/assets/catalog.json"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"

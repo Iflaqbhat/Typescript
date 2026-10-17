@@ -1,0 +1,111 @@
+[
+  {
+    "id": "walnut-kernels",
+    "name": "Kashmiri Walnut Kernels",
+    "subtitle": "A little crunch. A lot of character.",
+    "category": "nuts",
+    "categoryName": "Nuts",
+    "image": "web-walnut-kernels.jpg",
+    "alt": "Representative photograph of shelled walnut kernels in a bowl",
+    "pricePerKg": 1200,
+    "defaultGrams": 250,
+    "minGrams": 50,
+    "maxGrams": 25000,
+    "stepGrams": 25,
+    "badge": "Everyday favourite",
+    "description": "Bring a rich, earthy crunch to your breakfast bowl, baking, or afternoon snack. Explore the walnut kernels featured on our Instagram and choose a pack that suits your kitchen.",
+    "storage": "Keep in an airtight container in a cool, dry place. Refrigerate after opening for longer storage.",
+    "allergens": "Contains walnuts (tree nuts).",
+    "actualImages": [
+      "walnuts.jpg"
+    ],
+    "searchTerms": "akhrot walnut kernels"
+  },
+  {
+    "id": "whole-cashews",
+    "name": "Whole Cashews",
+    "subtitle": "Creamy, crunchy, endlessly versatile.",
+    "category": "nuts",
+    "categoryName": "Nuts",
+    "image": "web-cashews.jpg",
+    "alt": "Representative stock photograph of cashews on a wooden board",
+    "pricePerKg": 900,
+    "defaultGrams": 250,
+    "minGrams": 50,
+    "maxGrams": 25000,
+    "stepGrams": 25,
+    "badge": "For your pantry",
+    "description": "From a simple handful to your favourite festive recipe, cashews make everyday moments a little more special. Select your pack size and ask Shakir about the varieties available today.",
+    "storage": "Store sealed in a cool, dry place, away from direct sunlight and moisture.",
+    "allergens": "Contains cashews (tree nuts).",
+    "actualImages": [
+      "cashews.jpg"
+    ],
+    "searchTerms": "kaju cashew nuts"
+  },
+  {
+    "id": "dried-figs",
+    "name": "Dried Figs · Anjeer",
+    "subtitle": "Naturally sweet, beautifully simple.",
+    "category": "dried-fruits",
+    "categoryName": "Dried fruits",
+    "image": "web-figs.jpg",
+    "alt": "Representative stock photograph of dried figs in a white bowl",
+    "pricePerKg": 1400,
+    "defaultGrams": 250,
+    "minGrams": 50,
+    "maxGrams": 25000,
+    "stepGrams": 25,
+    "badge": "Something sweet",
+    "description": "Soft, chewy anjeer with a delicate seeded texture. Enjoy with nuts, chop into porridge, or add to a thoughtful food gift. Select a pack for everyday snacking, baking, or sharing.",
+    "storage": "Store airtight in a cool, dry place. Refrigerate after opening, especially in warm or humid weather.",
+    "allergens": "Packed alongside tree nuts. Ask about handling if you have a food allergy.",
+    "actualImages": [
+      "figs.jpg"
+    ],
+    "searchTerms": "anjeer fig dried fruit"
+  },
+  {
+    "id": "kashmiri-saffron",
+    "name": "Kashmiri Saffron",
+    "subtitle": "A few threads. A beautiful difference.",
+    "category": "saffron",
+    "categoryName": "Saffron",
+    "image": "web-saffron.jpg",
+    "alt": "Representative stock photograph of saffron threads on a wooden spoon",
+    "pricePerKg": 300000,
+    "defaultGrams": 1,
+    "minGrams": 0.5,
+    "maxGrams": 100,
+    "stepGrams": 0.5,
+    "badge": "The Kashmir collection",
+    "description": "Discover the saffron threads featured in our collection. Infuse a few threads in warm milk or water before adding to rice, desserts, or a comforting cup of kahwa. Ask Shakir for current batch details before ordering.",
+    "storage": "Store in an airtight container, away from heat, moisture, and direct light.",
+    "allergens": "Ask about packing and cross-contact if you have a food allergy.",
+    "actualImages": [
+      "saffron.jpg",
+      "saffron-threads.jpg"
+    ],
+    "searchTerms": "kesar zafran saffron"
+  },
+  {
+    "id": "almonds",
+    "name": "Almonds",
+    "subtitle": "Your daily handful of goodness.",
+    "category": "nuts",
+    "categoryName": "Nuts",
+    "image": "web-almonds.jpg",
+    "alt": "Representative stock photograph of almonds in a ceramic bowl",
+    "pricePerKg": 850,
+    "defaultGrams": 250,
+    "minGrams": 50,
+    "maxGrams": 25000,
+    "stepGrams": 25,
+    "badge": "Choose your variety",
+    "description": "Make room for an everyday favourite. Tell Shakir whether you prefer kernels or in-shell almonds, and confirm the available variety and price on WhatsApp. Confirm your preferred variety with Shakir before ordering.",
+    "storage": "Keep sealed in a cool, dry place. Refrigerate after opening for longer storage.",
+    "allergens": "Contains almonds (tree nuts).",
+    "actualImages": [],
+    "searchTerms": "badam almond nuts"
+  }
+]
