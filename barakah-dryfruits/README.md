@@ -1,6 +1,6 @@
 # Barakah Dryfruits
 
-A responsive static storefront for co-owners Iflak Bhat and Shakir Nazir. Orders are reviewed and sent by the customer through WhatsApp (+91 7889826963). No payment processor, server-side order database, or WhatsApp Business API is connected.
+A responsive static storefront for Founder Shakir Nazir and Co-founder & CEO Iflak Bhat. Orders are reviewed and sent by the customer through WhatsApp (+91 7889826963). No payment processor, server-side order database, or WhatsApp Business API is connected.
 
 Run `npm run build`, `npm test`, and `npm run dev`. Source assets live in `assets/`; `dist/` is rebuilt on each build. No npm dependencies are needed. Edit `catalog.json` for product descriptions, indicative prices, weights and photo galleries, then rebuild. `build.py` generates crawlable category/product/info pages, metadata, structured data, sitemap and robots.txt.
 
